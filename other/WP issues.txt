@@ -1,0 +1,22 @@
+
+startups
+
+
+https://modishaccessories.com/wp-admin/ - nu poti intra pe admin page - fixed
+
+https://phoneaccessoriessale.com/ - nu poti intra pe admin page - fixed
+
+https://homeytrends.com/wp-login - error 500 wp11 - fixed
+
+https://ritzyluggage.com/wp-login - error 500 wp19 - fixed
+
+https://thewatchstoredeals.com/wp-login - not found wp20 - fixed 
+
+
+outlet
+
+alldecordeals.com - forbidden wp25 - fixed
+
+https://goodphonestuff.com - fixed
+
+childrentoysdeals.com - forbidden wp39 - fixed
